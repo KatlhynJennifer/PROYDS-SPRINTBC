@@ -1,13 +1,14 @@
 # PROYDS-SPRINTBC
-## Introducción
-El operador de telecomunicaciones Interconnect ofrece principalmente dos tipos de servicios el primero es la comunicación por teléfono fijo donde la conexión telefónica puede realizarse a varias líneas simultáneamente.El segundo consta del servicio de Internet, aqui la conexión a la red puede establecerse a través de una línea telefónica (DSL, *línea de abonado digital*) o mediante un cable de fibra óptica.
-Además, los usuarios pueden beneficiarse de otras ventajas como la seguridad en línea, almacenamiento de archivos en la nube, respaldo de datos, línea directa de asistencia técnica y streaming de TV y películas. Por otra parte, el cliente puede elegir entre un pago mensual o firmar un contrato de 1 o 2 años. También pueden elegir entre varias formas de pago y obtener una factura electrónica después de cada transacción.
+# SPRINT17-The telecommunications operator Interconnect
 
-La empresa quiere ser capaz de predecir su tasa de cancelación. En caso de que se detecte que un usuario planea marcharse, se le ofrecerán códigos promocionales y opciones de planes especiales. El equipo de marketing de Interconnect se ha encargado de recopilar algunos de los datos personales de sus clientes, incluida información sobre sus planes y contratos.
+## Introduction
+The telecommunications operator Interconnect offers mainly two types of services, the first is landline communication where the telephone connection can be made to several lines simultaneously, and the second is the Internet service, where the connection to the network can be established via a telephone line (DSL, digital subscriber line) or via a fibre optic cable. In addition, users can benefit from other advantages such as online security, file storage in the cloud, data backup, technical hotline and TV and movie streaming. Moreover, the customer can choose between a monthly payment or sign a 1 or 2 year contract. They can also choose between several payment methods and get an electronic invoice after each transaction.
 
-## Objetivos
-1. Efectuar un primer análisis de los datos y, a continuación, procesarlos hasta que no se registren valores ausentes, duplicados y otros errores. 
-2. Examinar y descubrir patrones en los datos mediante análisis exploratorios univariantes y bivariantes.
-3. Clasificar los datos y preparar los modelos de aprendizaje automático mediante la codificación, la normalización y los demás métodos considerados relevantes.
-4. Elaborar, perfeccionar y probar diversos modelos de machine learning con el fin de clasificar mejor a los usuarios según la probabilidad a que cancelen o no sus cuentas de Interconnect.
-5. Escoger un modelo que obtenga un AUC-ROC superior a 0,88 en el conjunto de pruebas.
+The company wants to be able to predict their cancellation rate. In case it detects that a user is planning to leave, they will be offered promotional codes and special plan options. Interconnect's marketing team has been tasked with collecting some of its customers' personal data, including information about their plans and contracts.
+
+## Objectives
+1. Perform an initial analysis of the data and then process the data until no missing values, duplicates and other errors are recorded. 
+2. Examine and discover patterns in the data through exploratory univariate and bivariate analyses.
+3. Classify the data and prepare machine learning models by coding, normalisation and other methods deemed relevant.
+4. Develop, refine and test various machine learning models in order to better classify users according to the likelihood that they will or will not cancel their Interconnect accounts.
+5. Choose a model that obtains an AUC-ROC greater than 0.88 on the test set.
